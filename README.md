@@ -4,6 +4,6 @@ Project developed in the CSS FLEXBOX course - [Origamid](https://www.origamid.co
 
 The project uses CSS Flexbox.
 
-[Project webpage](https://github.com/kelwynOliveira/FlexBlog/)
+[Project webpage](https://kelwynoliveira.github.io/FlexBlog/)
 
 ![](./thumb.PNG)
