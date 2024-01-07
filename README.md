@@ -6,4 +6,4 @@ The project uses CSS Flexbox.
 
 [Project webpage](https://kelwynoliveira.github.io/FlexBlog/)
 
-[![](./thumb.PNG)](https://kelwynoliveira.github.io/FlexBlog/)
+[![](./thumb.jpg)](https://kelwynoliveira.github.io/FlexBlog/)
